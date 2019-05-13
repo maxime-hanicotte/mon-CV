@@ -111,3 +111,11 @@ BAC STI Electrotechnique avec mention
 Les Sauveteurs en Mer - SNSM (Société Nationale de Sauvetage en Mer)
 Septembre 2011 – Septembre 2012
 1 an
+
+## Projets personnels
+* [BigMax](https://maxime-hanicotte.github.io/BigMax/)
+* [Mardi](https://maxime-hanicotte.github.io/Mardi/)
+* [Minautor](https://maxime-hanicotte.github.io/Minautor/)
+* [Fertilizer](https://maxime-hanicotte.github.io/Fertilizer/)
+* [Marsbook](https://maxime-hanicotte.github.io/Marsbook/)
+* [La Machou](https://maxime-hanicotte.github.io/La-Machou/)
