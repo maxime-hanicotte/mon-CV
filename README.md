@@ -1,1 +1,1 @@
-# [# A propos](https://maxime-hanicotte.github.io/CV/)
+# [# A propos](https://maxime-hanicotte.github.io/a_propos/)
