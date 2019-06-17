@@ -1,13 +1,13 @@
-# MAXIME HANICOTTE
+# Summary
 
 * Expériences dans les secteurs médical, pharmaceutique, automobile et aéronautique.
 * Compétences en informatique et électronique.
 * Capacités d'adaptation et d'autonomie sur le terrain, rigoureux et bon communicant.
 * Ouvert aux opportunités en Île de France.
 
-## Experience
+# Experiences
 
-### Ingénieur IOT & Cloud
+## Ingénieur IOT & Cloud
 Visian (NEURONES IT),
 Mai 2016 – Aujourd'hui,
 2 ans 7 mois,
@@ -19,7 +19,7 @@ Réalisation de projets innovants mettant en scène les technologies de l'IOT :
 * Données et analyses (SQL Server, Power BI) 
 * Automatismes Industriels (OPC)
 
-### Spécialiste informatique industrielle
+## Spécialiste informatique industrielle
 Laporte Consultants,
 Mars 2013 – Juillet 2015,
 2 ans 5 mois,
@@ -30,7 +30,7 @@ Consultant en informatique dans le secteur pharmaceutique de la région de Montr
 * Automatique industrielle, programmation Ladder
 * Coordination des travaux électriques, configuration de réseaux, tests de démarrage et validation BPF
 
-### Ingénieur d'étude électrique
+## Ingénieur d'étude électrique
 Eco Solar Breizh,
 Juin 2011 – Decembre 2011,
 7 mois,
@@ -41,7 +41,7 @@ Conception d'un data-logger, utilisant une carte PC embarquée et de multiples c
 * Programmation en C, C++
 * Traitement de signal analogique et numérique
 
-### Ingénieur dév. électronique
+## Ingénieur dév. électronique
 Kaptalia Monitoring,
 Septembre 2010 – Decembre 2010,
 4 mois,
@@ -53,7 +53,7 @@ Développement d'une carte électronique pour arriver à une version fonctionnel
 * Conception de cartes électroniques PCB
 * Simulations et Tests (LTspice, Matlab/Simulink)
 
-### Technicien tests
+## Technicien tests
 Valeo,
 Juin 2010 – Août 2010,
 3 mois,
@@ -63,7 +63,7 @@ Au sein du service d’amélioration continue. Travail sur des actionneurs pour 
 * Réalisation d’essais acoustiques et électriques
 * Tests de validation avec LabView
 
-### Technicien
+## Technicien
 Safran Transmission Systems,
 Janvier 2008 – Février 2008,
 2 mois,
@@ -73,9 +73,9 @@ Modernisation des bancs d'essais pour les modules de transmission de puissance d
 * Programmation d’un écran tactile
 * Modernisation d’une armoire électrique
 
-## Formation
+# Formation
 
-### Ecole Nationale d'Ingenieur de Brest (ENIB)
+## Ecole Nationale d'Ingenieur de Brest (ENIB)
 Diplômé de l'Enib Electronique, Informatique, Mécatronique
 2009 – 2013
 
@@ -83,14 +83,14 @@ Formation en 3 ans basée sur des projets en binômes et des travaux pratiques.
 Reconnue par la commission des titres d’ingénieurs (www.cti-commission.fr).
 La spécialisation électronique se concentre notamment sur les systèmes télé-communicants, l'informatique bas-niveau, l’électronique embarqué, l'instrumentation ainsi que sur la conception de microcircuits.
 
-### Lycée Jean Jaurès, Argenteuil (95)
+## Lycée Jean Jaurès, Argenteuil (95)
 Maths spé ATS
 2008 – 2009
 
 Préparation d'un an aux concours d'entrée aux grandes écoles.
 Programme avancé en Mathématique, Physique et Sciences de l'ingénieur.
 
-### Lycée Jean Jaurès, Argenteuil (95)
+## Lycée Jean Jaurès, Argenteuil (95)
 BTS Electrotechnique
 2006 – 2008
 
@@ -101,18 +101,18 @@ Présentation du projet devant un jury et livraison de l'ensemble à un lycée t
 
 * Formation aux travaux de haute tension au CERGE Vitry/Seine, France.
 
-### Lycée Jean Jaurès, Argenteuil (95)
+## Lycée Jean Jaurès, Argenteuil (95)
 BAC STI Electrotechnique avec mention
 2004 – 2006
 
-## Volontariat
+# Volontariat
 
-### Nageur Sauveteur
+## Nageur Sauveteur
 Les Sauveteurs en Mer - SNSM (Société Nationale de Sauvetage en Mer)
 Septembre 2011 – Septembre 2012
 1 an
 
-## Projets personnels
+# Projets personnels
 * [BigMax](https://maxime-hanicotte.github.io/BigMax/)
 * [Mardi](https://maxime-hanicotte.github.io/Mardi/)
 * [Minautor](https://maxime-hanicotte.github.io/Minautor/)
