@@ -113,9 +113,9 @@ Septembre 2011 – Septembre 2012
 1 an
 
 # Projets personnels
-* [BigMax](https://maxime-hanicotte.github.io/BigMax/)
-* [Mardi](https://maxime-hanicotte.github.io/Mardi/)
-* [Minautor](https://maxime-hanicotte.github.io/Minautor/)
-* [Fertilizer](https://maxime-hanicotte.github.io/Fertilizer/)
-* [Marsbook](https://maxime-hanicotte.github.io/Marsbook/)
-* [La Machou](https://maxime-hanicotte.github.io/La-Machou/)
+* [BigMax](https://maxime-hanicotte.github.io/BigMax/) - Un projet de robot sumo
+* [Mardi](https://maxime-hanicotte.github.io/Mardi/) - Assistant personnel
+* [Minautor](https://maxime-hanicotte.github.io/Minautor/) - Un jeu pour Arduboy
+* [Fertilizer](https://maxime-hanicotte.github.io/Fertilizer/) - Une IA pour Leekwars
+* [Marsian](https://maxime-hanicotte.github.io/Marsian/) - Portage Debian sur Marsboard
+* [La-Machou](https://maxime-hanicotte.github.io/La-Machou/) - µBrasserie automatisée
