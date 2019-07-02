@@ -113,9 +113,9 @@ Septembre 2011 – Septembre 2012
 1 an
 
 # Projets personnels
-* [BigMax](https://maxime-hanicotte.github.io/BigMax/) - Un projet de robot sumo
-* [Mardi](https://maxime-hanicotte.github.io/Mardi/) - Assistant personnel
-* [Minautor](https://maxime-hanicotte.github.io/Minautor/) - Un jeu pour Arduboy
-* [Fertilizer](https://maxime-hanicotte.github.io/Fertilizer/) - Une IA pour Leekwars
-* [Marsian](https://maxime-hanicotte.github.io/Marsian/) - Portage Debian sur Marsboard
-* [La-Machou](https://maxime-hanicotte.github.io/La-Machou/) - µBrasserie automatisée
+* <img src="./img/sumo.png" alt="ir"> [BigMax](https://maxime-hanicotte.github.io/BigMax/) - Un projet de robot sumo
+* <img src="./img/mardi.png" alt="ir"> [Mardi](https://maxime-hanicotte.github.io/Mardi/) - Assistant personnel
+* <img src="./img/ardu.png" alt="ir"> [Minautor](https://maxime-hanicotte.github.io/Minautor/) - Un jeu pour Arduboy
+* <img src="./img/spray.png" alt="ir"> [Fertilizer](https://maxime-hanicotte.github.io/Fertilizer/) - Une IA pour Leekwars
+* <img src="./img/mars.png" alt="ir"> [Marsian](https://maxime-hanicotte.github.io/Marsian/) - Portage Debian sur Marsboard
+* <img src="./img/brew.png" alt="ir"> [La-Machou](https://maxime-hanicotte.github.io/La-Machou/) - µBrasserie automatisée
