@@ -1,121 +1,50 @@
 # Summary
 
-* Expériences dans les secteurs médical, pharmaceutique, automobile et aéronautique.
-* Compétences en informatique et électronique.
-* Capacités d'adaptation et d'autonomie sur le terrain, rigoureux et bon communicant.
-* Ouvert aux opportunités en Île de France.
+* Experiences in several industrial fields.
+* Focused on hardware/software development for electronics.
 
 # Experiences
 
-## Ingénieur IOT & Cloud
-Visian (NEURONES IT),
-Mai 2016 – Aujourd'hui,
-2 ans 7 mois,
-Paris,
-Réalisation de projets innovants mettant en scène les technologies de l'IOT :
-* Objets connectés (BLE, Wifi, 3g, LoRa, Sigfox, Zwave+) 
-* Applications mobiles et web (Androïd, IOS, Html, Css, JavaScript) 
-* Services Cloud (Azure, C#.Net, Java, Python) 
-* Données et analyses (SQL Server, Power BI) 
-* Automatismes Industriels (OPC)
+## IoT & Cloud Developer
+Visian (NEURONES IT) at Paris,
+May 2016 – Today
 
-## Spécialiste informatique industrielle
-Laporte Consultants,
-Mars 2013 – Juillet 2015,
-2 ans 5 mois,
-Montréal Canada,
-Consultant en informatique dans le secteur pharmaceutique de la région de Montréal et Québec :
-* Développement web et desktop en C#, Asp.Net, SqlServer
-* Intégration d’outils informatiques Scadas et Historiens
-* Automatique industrielle, programmation Ladder
-* Coordination des travaux électriques, configuration de réseaux, tests de démarrage et validation BPF
+## IT Specialist
+Laporte Consultants at Montreal,
+Mars 2013 – July 2015
 
-## Ingénieur d'étude électrique
-Eco Solar Breizh,
-Juin 2011 – Decembre 2011,
-7 mois,
-Brest,
-Étude de la partie électrique du prototype de véhicule solaire développé par EcoSolarBreizh.
-Conception d'un data-logger, utilisant une carte PC embarquée et de multiples capteurs dans le but d'orienter la conception du véhicule en faisant des relevés topographiques sur le terrain de course.
-* Conduite de réunions et prises de contacts avec différents experts et fournisseurs
-* Programmation en C, C++
-* Traitement de signal analogique et numérique
+## Electrical Study Engineer
+Eco Solar Breizh at Brest,
+June 2011 – December 2011
 
-## Ingénieur dév. électronique
-Kaptalia Monitoring,
-Septembre 2010 – Decembre 2010,
-4 mois,
-Lorient,
-Contexte de création d'entreprise dans les équipements médicaux.
-Développement d'une carte électronique pour arriver à une version fonctionnelle avant industrialisation.
-* Programmation C sur microprocesseur
-* Réalisation d'IHMs en Java
-* Conception de cartes électroniques PCB
-* Simulations et Tests (LTspice, Matlab/Simulink)
+## Electronics Development engineer
+Kaptalia Monitoring at Lorient,
+September 2010 – December 2010
 
-## Technicien tests
-Valeo,
-Juin 2010 – Août 2010,
-3 mois,
-La Vérrière,
-Au sein du service d’amélioration continue. Travail sur des actionneurs pour les systèmes de climatisation de véhicule :
-* Participation aux groupes de réflexion et résolution de problèmes
-* Réalisation d’essais acoustiques et électriques
-* Tests de validation avec LabView
+## Electrical Test Technician
+Valeo at Paris,
+June 2010 – August 2010
 
-## Technicien
-Safran Transmission Systems,
-Janvier 2008 – Février 2008,
-2 mois,
-Colombes,
-Modernisation des bancs d'essais pour les modules de transmission de puissance développés par la firme.
-* Programmation d’un automate industriel
-* Programmation d’un écran tactile
-* Modernisation d’une armoire électrique
+## Test Bench Technician
+Hispano-Suiza (SAFRAN) at Paris,
+January 2008 – February 2008
 
-# Formation
+# Study
 
 ## Ecole Nationale d'Ingenieur de Brest (ENIB)
-Diplômé de l'Enib Electronique, Informatique, Mécatronique
 2009 – 2013
-
-Formation en 3 ans basée sur des projets en binômes et des travaux pratiques.
-Reconnue par la commission des titres d’ingénieurs (www.cti-commission.fr).
-La spécialisation électronique se concentre notamment sur les systèmes télé-communicants, l'informatique bas-niveau, l’électronique embarqué, l'instrumentation ainsi que sur la conception de microcircuits.
+Engineer Diploma
 
 ## Lycée Jean Jaurès, Argenteuil (95)
-Maths spé ATS
-2008 – 2009
-
-Préparation d'un an aux concours d'entrée aux grandes écoles.
-Programme avancé en Mathématique, Physique et Sciences de l'ingénieur.
-
-## Lycée Jean Jaurès, Argenteuil (95)
-BTS Electrotechnique
-2006 – 2008
-
-Formation en deux ans. Spécialisation génie électrique.
-
-* Projet : Réalisation d’un trans-gerbeur, rédaction du cahier des charges, élaboration d'un planning prévisionnel, étude mécanique et électrique, montage de l'armoire de commande, programmation de l'automate industriel et de l'IHM tactile.
-Présentation du projet devant un jury et livraison de l'ensemble à un lycée technique.
-
-* Formation aux travaux de haute tension au CERGE Vitry/Seine, France.
-
-## Lycée Jean Jaurès, Argenteuil (95)
-BAC STI Electrotechnique avec mention
-2004 – 2006
-
-# Volontariat
-
-## Nageur Sauveteur
-Les Sauveteurs en Mer - SNSM (Société Nationale de Sauvetage en Mer)
-Septembre 2011 – Septembre 2012
-1 an
+2004 – 2009
+Maths spé ATS (1 year preparatory class)
+BTS Electrotechnique (2 years formation in electrical engineering)
+BAC STI Electrotechnique (Electrical enginering specialized bachelor)
 
 # Projets personnels
-* <img src="./img/sumo.png" alt="ir"> [BigMax](https://maxime-hanicotte.github.io/BigMax/) - Un projet de robot sumo
-* <img src="./img/mardi.png" alt="ir"> [Mardi](https://maxime-hanicotte.github.io/Mardi/) - Assistant personnel
-* <img src="./img/ardu.png" alt="ir"> [Minautor](https://maxime-hanicotte.github.io/Minautor/) - Un jeu pour Arduboy
-* <img src="./img/spray.png" alt="ir"> [Fertilizer](https://maxime-hanicotte.github.io/Fertilizer/) - Une IA pour Leekwars
-* <img src="./img/mars.png" alt="ir"> [Marsian](https://maxime-hanicotte.github.io/Marsian/) - Portage Debian sur Marsboard
-* <img src="./img/brew.png" alt="ir"> [La-Machou](https://maxime-hanicotte.github.io/La-Machou/) - µBrasserie automatisée
+* <img src="./img/sumo.png" alt="ir"> [BigMax](https://maxime-hanicotte.github.io/BigMax/) - A sumo robot project
+* <img src="./img/mardi.png" alt="ir"> [Mardi](https://maxime-hanicotte.github.io/Mardi/) - Personnal assistant
+* <img src="./img/ardu.png" alt="ir"> [Minautor](https://maxime-hanicotte.github.io/Minautor/) - Arduboy maze game
+* <img src="./img/spray.png" alt="ir"> [Fertilizer](https://maxime-hanicotte.github.io/Fertilizer/) - Leekwars AI
+* <img src="./img/mars.png" alt="ir"> [Marsian](https://maxime-hanicotte.github.io/Marsian/) - Debian for Marsboard
+* <img src="./img/brew.png" alt="ir"> [La-Machou](https://maxime-hanicotte.github.io/La-Machou/) - Automatic Craft Beer
