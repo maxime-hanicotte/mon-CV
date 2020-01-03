@@ -1,3 +1,3 @@
-# Maxime Hanicotte
+# Mon profil
 
-GitHub Page on my profil and my projects
+# Mes projets
