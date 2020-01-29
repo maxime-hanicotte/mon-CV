@@ -1,7 +1,9 @@
-# [Projets](https://maxime.hanicotte.net#Projets)
-- [Crash-Test](https://maxime.hanicotte.net/Crash-Test)
-- [HannaH](https://maxime.hanicotte.net/HannaH)
-- [La-Machou](https://maxime.hanicotte.net/La-Machou)
-- [Marsian](https://maxime.hanicotte.net/Marsian)
+# Profil
+# Projets
+## [Crash-Test](https://maxime.hanicotte.net/Crash-Test)
+## [HannaH](https://maxime.hanicotte.net/HannaH)
+## [L'idéOmètre](https://ideometre.fr)
 
-# [L'idéOmètre](https://ideometre.fr)
+<a href="https://maxime.hanicotte.net"><img src="./img/mx-logo.png" width="36" alt="MX" align="right"></a>
+
+--
