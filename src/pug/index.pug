@@ -1,0 +1,258 @@
+doctype html
+html(lang='fr')
+
+    head
+
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        meta(name='description', content='Maxime Hanicotte resume')
+        meta(name='author', content='Maxime Hanicotte')
+
+        title CV - Maxime Hanicotte
+
+        link(rel='icon', type='image/x-icon', href='assets/img/favicon.ico')
+
+        // Font Awesome icons (free version)
+        script(src='https://use.fontawesome.com/releases/v5.15.4/js/all.js', crossorigin='anonymous')
+
+        // Google fonts
+        link(href='https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700', rel='stylesheet', type='text/css')
+        link(href='https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i', rel='stylesheet', type='text/css')
+
+        // Core theme CSS (includes Bootstrap)
+        link(href='css/styles.css', rel='stylesheet')
+
+    body#page-top
+
+        // Navigation
+        nav#sideNav.navbar.navbar-expand-lg.navbar-dark.bg-primary.fixed-top
+            a.navbar-brand.js-scroll-trigger(href='#page-top')
+                span.d-block.d-lg-none Maxime Hanicotte
+                span.d-none.d-lg-block
+                    img.img-fluid.img-profile.rounded-circle.mx-auto.mb-2(src='assets/img/profile.jpg', alt='...')
+            button.navbar-toggler(type='button', data-bs-toggle='collapse', data-bs-target='#navbarResponsive', aria-controls='navbarResponsive', aria-expanded='false', aria-label='Toggle navigation')
+                span.navbar-toggler-icon
+            #navbarResponsive.collapse.navbar-collapse
+                ul.navbar-nav
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#about') About
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#experience') Experience
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#education') Education
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#skills') Skills
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#interests') Interests
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#awards') Awards
+
+        // Page Content
+        .container-fluid.p-0
+
+            // About
+            section#about.resume-section
+                .resume-section-content
+                    h1.mb-0
+                        | Maxime 
+                        span.text-primary Hanicotte
+                    .subheading.mb-5
+                        | 30 Avenue du Bas Meudon · 92130, Issy-les-Moulineaux
+                    p.lead.mb-5
+                        | ◦ Expériences dans les secteurs médical, pharmaceutique, automobile et aéronautique
+                        br
+                        | ◦ Compétences en électronique, informatique, automatique et électrotechnique
+                        br
+                        | ◦ Capacités d'adaptation et d'autonomie sur le terrain, rigoureux et bon communicant
+                    .social-icons
+                        a.social-icon(href='mailto:maxime.hanicotte@gmail.com')
+                            i.fas.fa-envelope
+                        a.social-icon(href='tel:+33631443024')
+                            i.fas.fa-phone
+                        a.social-icon(href='https://www.linkedin.com/in/maximehanicotte/')
+                            i.fab.fa-linkedin-in
+                        a.social-icon(href='https://github.com/maxime-hanicotte')
+                            i.fab.fa-github
+
+            hr.m-0
+
+            // Experience
+            section#experience.resume-section
+               .resume-section-content
+                    h2.mb-5 Experience
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 Consultant
+                            .subheading.mb-3 Accenture
+                            p
+                                | Expertise technique et architecture autour de sujets liés à l'IoT et à l'industrie 4.0 pour des acteurs majeurs de l'industrie :
+                                br
+                                | ◦ Sécuriser et accélérer le delivery des offres digitales IoT de Schneider Electric
+                                br
+                                | ◦ Architecture applicative pour Enedis autour de la refonte de leur SI de distribution électrique
+                                br
+                                | ◦ Architecte solution pour le démarrage d’un projet pour Faurecia implémentant un « digital twin » pour une usine pilote
+                        .flex-shrink-0
+                            span.text-primary September 2021 - Present
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 IoT & Cloud engineer
+                            .subheading.mb-3 Visian
+                            p
+                                | Réalisation de projets agiles innovants mettant en scène les technologies de l’IoT et du Cloud :
+                                br
+                                | ◦ Développement d’une solution IoT pour Alizent (Air Liquide). Architecture serverless sur AWS. Développement de services back-end en Python. Application du framework Scrum. Mise en place des chaînes CI-CD. Mise en production.
+                                br
+                                | ◦ Mission pour Axa en tant que data engineer. Accompagnement des data scientists pour l’entraînement de leurs modèles d’IA. Mise en place des bonnes pratiques de développement et architecture de l’environnement MLOps.
+                                br
+                                | ◦ Développement d’une plateforme d’acquisition de données IoT en interne sur Azure (pour EDF, Sanef, Machines Pages). Développement de l’infrastructure cloud et de l’architecture des bases de données. Développement de services web et d’api en C# et Python. Rédaction du code et des tests unitaires. Intégration de nombreux capteurs IoT utilisant le réseau LoRa.
+                        .flex-shrink-0
+                            span.text-primary May 2016 - July 2021
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 Industrial IT specialist
+                            .subheading.mb-3 Laporte Consultants
+                            p
+                                | Spécialiste en informatique pour les acteurs du secteur pharmaceutique de la région de Montréal et Québec (Sandoz, GSK, Sterinova, Merck & Co, Green Cross Biotherapeutics):
+                                br
+                                | ◦ Développement d'applications métiers web et desktop. Intégration d’outils informatiques de type Scada et Historien. Programmation d’automates industriels. Coordination de travaux électriques, configuration des réseaux. Qualification et tests de démarrage des nouvelles installations IT.
+                        .flex-shrink-0
+                            span.text-primary May 2013 - July 2015
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 Electrical study engineer
+                            .subheading.mb-3 Eco Solar Breizh
+                            p
+                                | Étude de la partie électrique d’un prototype de véhicule solaire développé par Eco Solar Breizh et conception d'un data-logger, utilisant une carte PC embarquée et de multiples capteurs permettant des relevés topographiques du terrain de course et d'orienter ainsi la conception du véhicule.
+                        .flex-shrink-0
+                            span.text-primary June 2011 - December 2011
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between
+                        .flex-grow-1
+                            h3.mb-0 Electronic engineer
+                            .subheading.mb-3 Kaptalia Monitoring
+                            p
+                                | Start up dans les équipements médicaux. Développement d'une carte électronique pour arriver à une version fonctionnelle avant industrialisation. Programmation C sur microprocesseurs. Conception des cartes électroniques avec KiCad. Réalisation d'une IHM en Java pour visualiser les signaux. Simulations et tests de la carte électronique.
+                        .flex-shrink-0
+                            span.text-primary September 2010 - December 2010
+
+            hr.m-0
+
+            // Education
+            section#education.resume-section
+                .resume-section-content
+                    h2.mb-5 Education
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 Diplôme d'ingénieur
+                            .subheading.mb-3 Ecole Nationale d'Ingénieurs de Brest
+                            div Formation en 3 ans reconnue par la CTI se concentrant sur les domaines de l’informatique, l’électronique et la mécatronique.
+                            p
+                                i Toeic: 810/990
+                        .flex-shrink-0
+                            span.text-primary September 2009 - July 2012
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 BTS Electrotechnique + Prépa ATS
+                            .subheading.mb-3 Lycée Jean Jaurès à Argenteuil
+                            div 
+                                | Formation en deux ans spécialisée en génie électrique et automatique.
+                                br
+                                | Programme d'un an avancé en mathématiques, physique, sciences de l'ingénieur préparant au concours d'entrée aux grandes écoles.
+                        .flex-shrink-0
+                            span.text-primary September 2006 - July 2009
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between
+                        .flex-grow-1
+                            h3.mb-0 Bac STI Electrotechnique
+                            .subheading.mb-3 Lycée Jean Jaurès à Argenteuil
+                        .flex-shrink-0
+                            span.text-primary September 2004 - July 2006
+
+            hr.m-0
+
+            // Skills
+            section#skills.resume-section
+                .resume-section-content
+                    h2.mb-5 Skills
+                    .subheading.mb-3 Programming Languages & Tools
+                    ul.list-inline.dev-icons
+                        li.list-inline-item
+                            i.fab.fa-python
+                        li.list-inline-item
+                            i.fab.fa-docker
+                        li.list-inline-item
+                            i.fab.fa-aws
+                        li.list-inline-item
+                            i.fab.fa-windows
+                        li.list-inline-item
+                            i.fab.fa-google
+                        li.list-inline-item
+                            i.fab.fa-git
+                        li.list-inline-item
+                            i.fab.fa-html5
+                        li.list-inline-item
+                            i.fab.fa-css3-alt
+                        li.list-inline-item
+                            i.fab.fa-vuejs
+                        li.list-inline-item
+                            i.fab.fa-raspberry-pi
+                    .subheading.mb-3 Workflow
+                    ul.fa-ul.mb-0
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Software Craftmanship
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Test Driven Development
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Cross Functional Teams
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Agile Development & Scrum
+
+            hr.m-0
+
+            // Interests
+            section#interests.resume-section
+                .resume-section-content
+                    h2.mb-5 Interests
+                    p
+                        | Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.
+                    p.mb-0
+                        | When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.
+
+            hr.m-0
+
+            // Awards
+            section#awards.resume-section
+                .resume-section-content
+                    h2.mb-5 Awards & Certifications
+                    ul.fa-ul.mb-0
+                        li
+                            span.fa-li
+                                i.fas.fa-trophy
+                            | Certified Scrum Master - Scrum Alliance 2019
+                        li
+                            span.fa-li
+                                i.fas.fa-trophy
+                            | 2
+                            sup nd 
+                            | Place - Prix parcours d'entreprendre - Les entrepreneuriales 2010
+
+        // Bootstrap core JS
+        script(src='https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js')
+
+        // Core theme JS
+        script(src='js/scripts.js')
